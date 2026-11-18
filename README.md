@@ -1,3 +1,4 @@
+<img width="271" height="365" alt="Screenshot 2026-11-18 164741" src="https://github.com/user-attachments/assets/d9b48de3-aaf1-436d-9070-3f7e67b3e2a9" />
 # 2018 Ford Flex (3.5L NA / 6F50) Round OBD2 BLE Gauge
 
 Custom auxiliary gauge built on an **ESP32-C3 Super Mini** and a **1.28" 240x240 Round IPS TFT (GC9A01)** communicating wirelessly with a **Vgate iCar Pro BLE 4.0** OBD2 adapter.
